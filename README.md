@@ -3,5 +3,5 @@ Inspired by the VOX EARWORM video 'Why we really really really like repetition i
 
 # Some Cool Lyrical Maps
 
-![](/img/Want - Taemin.png)
+![](img/Want - Taemin.png)
 
